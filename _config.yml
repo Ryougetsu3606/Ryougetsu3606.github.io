@@ -25,10 +25,10 @@ author:
   avatar           : "profiles.jpg"
   name             : "Shenglang Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "School of Gifted Young, University of Science and Technology of China"
+  bio              : "School of Gifted Young, USTC"
   location         : "Hefei, Anhui, China"
-  employer         : "University of Science and Technology of China"
-  uri              : "https://en.ustc.edu.cn/"
+  employer         : "USTC"
+  uri              : # ee
   email            : "zsl142857@mail.ustc.edu.cn" 
 
   # Academic websites
@@ -65,7 +65,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "云与星与歌"
+  steam            : "https://steamcommunity.com/profiles/76561198959257302/"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
