@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profiles.jpg"
+  avatar           : "profile.jpg"
   name             : "Shenglang Zhang"
   pronouns         : # example: "she/her"  
   bio              : "School of Gifted Young, USTC"
