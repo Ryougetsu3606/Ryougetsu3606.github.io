@@ -1,10 +1,30 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Shenglang Zhang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-AHahahaha
+---
+## About me
+
+I am a final-year undergraduate student in Artificial Intelligence at [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC). My research centers on trustworthy AI, with a focus on multimodel large language models (MLLMs), while I am also interested in machine learning theory.
+
+## Education
+
+2022.9 - present, Bachelor of Artificial Intelligence, University of Science and Technology of China.
+
+## Experience
+
+2025.7 - present, Intern at CVML group, National University of Singapore, under supervision of [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Junbin Xiao](https://doc-doc.github.io/cv/).
+
+## Publications
+
+Coming soon :]
+
+## Teaching
+
+Teaching Assistant, Stochastic Process B (01714407), 24fall, USTC
+Teaching Assistant, Probability Theory and Statistics (STAT200218), 25spring, USTC
