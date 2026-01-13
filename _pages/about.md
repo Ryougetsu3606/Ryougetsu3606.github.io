@@ -10,11 +10,11 @@ redirect_from:
 ---
 ## About me
 
-I am a final-year undergraduate student in [School of Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) at [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC). My research centers on trustworthy AI, with a focus on multimodel large language models (MLLMs).
+I am a final-year undergraduate student in [School of Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) at [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), majoring in Artificial Intelligence. My research centers on multimodel large language models (MLLMs), with a focus on (streaming) video understanding and ego-centric vision.
 
 ## Education
 
-- 2022.9 - present, Bachelor of Artificial Intelligence, University of Science and Technology of China.
+- 2022.9 - 2026.6 (expected), Bachelor of Artificial Intelligence, University of Science and Technology of China.
 
 ## Experience
 
