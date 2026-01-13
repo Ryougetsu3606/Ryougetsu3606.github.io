@@ -10,7 +10,7 @@ redirect_from:
 ---
 ## About me
 
-I am a final-year undergraduate student in [School of Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) at [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC). My research centers on trustworthy AI, with a focus on multimodel large language models (MLLMs), while I am also interested in machine learning theory.
+I am a final-year undergraduate student in [School of Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) at [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC). My research centers on trustworthy AI, with a focus on multimodel large language models (MLLMs).
 
 ## Education
 
@@ -18,7 +18,7 @@ I am a final-year undergraduate student in [School of Gifted Young](https://en.s
 
 ## Experience
 
-- 2025.7 - present, Intern at CVML group, National University of Singapore, under supervision of [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Junbin Xiao](https://doc-doc.github.io/cv/).
+- 2025.7 - 2026.1, Intern at CVML group, National University of Singapore, under supervision of [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Junbin Xiao](https://doc-doc.github.io/cv/).
 
 ## Publications
 
