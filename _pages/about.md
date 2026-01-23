@@ -14,13 +14,13 @@ I am a final-year undergraduate student in [School of Gifted Young](https://en.s
 
 ## News
 
-- [2025.11] One paper about egocentric video understanding is **submitted** to CVPR2026.
-- [2025.07] Start my internship in CVML Group @ NUS!
+- [2025.11] One paper about egocentric video understanding is submitted to **CVPR2026**.
+- [2025.07] Start my internship in **CVML Group** @ NUS!
 
 ## Education & Experience
 
 - NUS, School of Computing
-  - Intern at CVML group, 2025.07 - 2026.01
+  - Intern at CVML Group, 2025.07 - 2026.01
   - Supervisor: [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Junbin Xiao](https://doc-doc.github.io/cv/).
 
 - USTC, School of Gifted Young
