@@ -12,13 +12,19 @@ redirect_from:
 
 I am a final-year undergraduate student in [School of Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) at [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), majoring in Artificial Intelligence. My research centers on multimodel large language models (MLLMs), with a focus on (streaming) video understanding and ego-centric vision.
 
-## Education
+## News
 
-- 2022.9 - 2026.6 (expected), Bachelor of Artificial Intelligence, University of Science and Technology of China.
+- [2025.11] One paper about egocentric video understanding is **submitted** to CVPR2026.
+- [2025.07] Start my internship in CVML Group @ NUS!
 
-## Experience
+## Education & Experience
 
-- 2025.7 - 2026.1, Intern at CVML group, National University of Singapore, under supervision of [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Junbin Xiao](https://doc-doc.github.io/cv/).
+- NUS, School of Computing
+  - Intern at CVML group, 2025.07 - 2026.01
+  - Supervisor: [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Junbin Xiao](https://doc-doc.github.io/cv/).
+
+- USTC, School of Gifted Young
+  - B.S. in Artificial Intelligence, 2022.09 - 2026.06 (expected).
 
 ## Publications
 
