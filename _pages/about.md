@@ -14,7 +14,7 @@ I am a final-year undergraduate student in [School of Gifted Young](https://en.s
 
 ## News
 
-- [2025.11] One paper about egocentric video understanding is submitted to **CVPR2026**.
+- [2026.02] One paper about egocentric video understanding is accepted to **CVPR 2026**.
 - [2025.07] Start my internship in **CVML Group** @ NUS!
 
 ## Education & Experience
@@ -28,7 +28,15 @@ I am a final-year undergraduate student in [School of Gifted Young](https://en.s
 
 ## Publications
 
-Coming soon :]
+**[CVPR 2026] Knowing Thyself: Ego-Grounding for Personalized Question-Answering in Egocentric Videos**
+  <br>
+    Junbin Xiao*, **Shenglang Zhang***, Pengxiang Zhu, Angela Yao
+    <br>
+    *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026*
+    <br>
+  <!-- [![PDF](https://img.shields.io/badge/PDF-Download-blue?style=flat-square)](Link_to_PDF) -->
+  <!-- [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](Link_to_Code) -->
+  <!-- [![Project](https://img.shields.io/badge/Project-Website-green?style=flat-square)](Link_to_Page)-->
 
 ## Teaching
 
