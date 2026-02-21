@@ -30,7 +30,7 @@ I am a final-year undergraduate student in [School of Gifted Young](https://en.s
 
 **[CVPR 2026] Knowing Thyself: Ego-Grounding for Personalized Question-Answering in Egocentric Videos**
   <br>
-    Junbin Xiao*, **Shenglang Zhang***, Pengxiang Zhu, Angela Yao
+    Junbin Xiao\*, **Shenglang Zhang**\*, Pengxiang Zhu, Angela Yao
     <br>
     *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026*
     <br>
