@@ -14,7 +14,7 @@ I am a final-year undergraduate student in [School of Gifted Young](https://en.s
 
 ## News
 
-- [2026.02] One paper about egocentric video understanding is accepted to **CVPR 2026**.
+- [2026.02] One paper about [egocentric video understanding](https://arxiv.org/pdf/2604.01966v1) is accepted to **CVPR 2026**.
 - [2025.07] Start my internship in **CVML Group** @ NUS!
 
 ## Education & Experience
@@ -28,20 +28,21 @@ I am a final-year undergraduate student in [School of Gifted Young](https://en.s
 
 ## Publications
 
-**[CVPR 2026] Knowing Thyself: Ego-Grounding for Personalized Question-Answering in Egocentric Videos**
+**[CVPR 2026] Ego-Grounding for Personalized Question-Answering in Egocentric Videos**
   <br>
     Junbin Xiao\*, **Shenglang Zhang**\*, Pengxiang Zhu, Angela Yao
     <br>
     *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026*
     <br>
-  <!-- [![PDF](https://img.shields.io/badge/PDF-Download-blue?style=flat-square)](Link_to_PDF) -->
-  <!-- [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](Link_to_Code) -->
+  [![PDF](https://img.shields.io/badge/PDF-Download-blue?style=flat-square)](https://arxiv.org/pdf/2604.01966v1)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Ryougetsu3606/MyEgo)
   <!-- [![Project](https://img.shields.io/badge/Project-Website-green?style=flat-square)](Link_to_Page)-->
 
 ## Teaching
 
-- Teaching Assistant, Stochastic Process B (01714407), 24fall, USTC
+- Teaching Assistant, Foundation of Deep Learning (AI3003), 26spring, USTC
 - Teaching Assistant, Probability Theory and Statistics (STAT200218), 25spring, USTC
+- Teaching Assistant, Stochastic Process B (01714407), 24fall, USTC
 <br /><br />
 
 ---
