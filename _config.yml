@@ -22,9 +22,9 @@ repository               : "Ryougetsu3606/Ryougetsu3606.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "new.jpg"
   name             : "Shenglang Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/his"  
   bio              : "School of Gifted Young, USTC"
   location         : "Hefei, Anhui, China"
   employer         : "USTC"
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : https://scholar.google.com/citations?user=0NsweogAAAAJ
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
