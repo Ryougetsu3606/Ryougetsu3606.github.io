@@ -28,7 +28,7 @@ I am a final-year undergraduate student in [School of Gifted Young](https://en.s
 
 ## Publications
 
-**[CVPR 2026] Ego-Grounding for Personalized Question-Answering in Egocentric Videos**
+**Ego-Grounding for Personalized Question-Answering in Egocentric Videos**
   <br>
     Junbin Xiao\*, **Shenglang Zhang**\*, Pengxiang Zhu, Angela Yao
     <br>
