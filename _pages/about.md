@@ -10,7 +10,7 @@ redirect_from:
 ---
 ## About me
 
-I am a final-year undergraduate student in [School of Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) at [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), majoring in Artificial Intelligence. My research centers on multimodel large language models (MLLMs), with a focus on (streaming) video understanding and ego-centric vision.
+I am a final-year undergraduate student in [School of Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) at [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), majoring in Artificial Intelligence. I am also an incoming PhD student in [Department of Computer Science](https://www.cs.cityu.edu.hk/en) at [City University of Hong Kong](https://www.cityu.edu.hk/en), supervised by [Shuang Qiu](https://shq-ml.github.io/). My research centers on multimodel large language models (MLLMs), with a focus on (streaming) video understanding and ego-centric vision.
 
 ## News
 
