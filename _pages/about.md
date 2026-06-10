@@ -28,7 +28,7 @@ Previously, I earned my bachelor's degrees in Artificial Intelligence from [Scho
 - USTC, School of Gifted Young
   - B.E. in Artificial Intelligence, 2022.09 - 2026.06.
  
-## Education & Experience
+## Experience
 
 - USTC, School of Information Science
   - Intern at Future Media Computing Lab, 2026.03 - Now
