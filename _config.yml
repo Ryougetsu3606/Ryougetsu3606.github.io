@@ -25,9 +25,9 @@ author:
   avatar           : "new.jpg"
   name             : "Shenglang Zhang"
   pronouns         : # example: "he/his"  
-  bio              : "School of Gifted Young, USTC"
-  location         : "Hefei, Anhui, China"
-  employer         : "USTC"
+  bio              : "Department of Computer Science, CityU"
+  location         : "Hong Kong SAR, China"
+  employer         : "CityU"
   uri              : # ee
   email            : "zsl142857@mail.ustc.edu.cn" 
 
