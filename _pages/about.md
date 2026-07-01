@@ -16,6 +16,7 @@ Previously, I earned my bachelor's degrees in Artificial Intelligence from [Scho
 
 ## News
 
+- [2026.07] Graduated from USTC after four truly rewarding years!
 - [2026.02] One paper about [egocentric video understanding](https://arxiv.org/pdf/2604.01966v1) is accepted to **CVPR 2026**.
 - [2025.07] Start my internship in **CVML Group** @ NUS!
 
