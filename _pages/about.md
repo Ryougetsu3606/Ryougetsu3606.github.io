@@ -10,12 +10,13 @@ redirect_from:
 ---
 ## About me
 
-I am an incoming PhD student in [Department of Computer Science](https://www.cs.cityu.edu.hk/en) at [City University of Hong Kong](https://www.cityu.edu.hk/en), where I am fortunated to be supervised by [Shuang Qiu](https://shq-ml.github.io/). My research centers on embodied intelligence and multimodel large language models (MLLMs), with a focus on (streaming) video understanding and ego-centric vision. 
+I am a PhD student in [Department of Computer Science](https://www.cs.cityu.edu.hk/en) at [City University of Hong Kong](https://www.cityu.edu.hk/en), where I am fortunated to be supervised by [Shuang Qiu](https://shq-ml.github.io/). My research centers on embodied intelligence and multimodel large language models (MLLMs), with a focus on (streaming) video understanding and ego-centric vision. 
 
 Previously, I earned my bachelor's degrees in Artificial Intelligence from [School of Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) at [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC).
 
 ## News
 
+- [2026.09] Start my PhD journey in CS @ CityUHK!
 - [2026.07] Graduated from USTC after four truly rewarding years!
 - [2026.02] One paper about [egocentric video understanding](https://arxiv.org/pdf/2604.01966v1) is accepted to **CVPR 2026**.
 - [2025.07] Start my internship in **CVML Group** @ NUS!
@@ -32,7 +33,7 @@ Previously, I earned my bachelor's degrees in Artificial Intelligence from [Scho
 ## Experience
 
 - USTC, School of Information Science
-  - Intern at Future Media Computing Lab, 2026.03 - Now
+  - Intern at Future Media Computing Lab, 2026.03 - 2026.08
   - Supervisor: [Prof. Junbin Xiao](https://doc-doc.github.io/cv/).
 
 - NUS, School of Computing
