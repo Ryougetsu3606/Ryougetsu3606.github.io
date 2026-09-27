@@ -59,6 +59,12 @@ Previously, I earned my bachelor's degrees in Artificial Intelligence from [Scho
 - Teaching Assistant, Stochastic Process B (01714407), 24fall, USTC
 <br /><br />
 
+## Interest
+
+In my spare time, I enjoy playing arcade music game. I hold 9dan (九段) in beatmaniaIIDX, and shin-5dan (真五段) of maimaiDX. Looking for partners to talk about MUG.
+
+I am also a fitness newbie. Recently I try my best to work out regularly.
+
 ---
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CfPQgMe0ebxur6jteobWelnEl1pd2WrFvkysqAvQUu0&cl=ffffff&w=400"></script>
