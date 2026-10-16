@@ -14,7 +14,7 @@ I am a PhD student in [Department of Computer Science](https://www.cs.cityu.edu.
 
 Previously, I earned my bachelor's degrees in Artificial Intelligence from [School of Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) at [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC).
 
-**Always up for chatting and collaborating on MLLMs, AI agents, robotics, and all things AI. Feel free to reach out at szhang2763-c [at] my [dot] cityu [dot] edu [dot] hk!**
+Always up for chatting and collaborating on MLLMs, AI agents, robotics, and all things AI. **Feel free to reach out** at szhang2763-c [at] my [dot] cityu [dot] edu [dot] hk!
 
 ## News
 
